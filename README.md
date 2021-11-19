@@ -103,7 +103,7 @@ The following screenshots indicate indicates the successful deployment of networ
 
 Below is the link to my web app showing that everything works
 
-http://serve-WebAp-1S5DR3Y22NVIO-2004577092.us-west-2.elb.amazonaws.com
+http://serve-WebAp-84AP4BW5OHLF-1184447464.us-west-2.elb.amazonaws.com
 
 The screenshots below indicate web application output and hyperlink:
 
